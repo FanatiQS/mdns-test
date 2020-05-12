@@ -1,0 +1,14 @@
+{
+  "name": "mdns-test",
+  "version": "1.0.0",
+  "description": "A simple mDNS test service that redirects mDNS requests to a name of your choise to your computer or other IP address.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FanatiQS",
+  "license": "MIT",
+  "dependencies": {
+    "multicast-dns": "^7.2.0"
+  }
+}
