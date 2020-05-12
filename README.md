@@ -11,4 +11,5 @@ After that you can go into a browser and visit that name you entered as your nam
 3. Visit http://myTest.local in a browser
 
 The system has been tested in 10.14.6.
+
 It is also known to not work on Android since chrome does not have mDNS support there :(
